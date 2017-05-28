@@ -1,0 +1,8 @@
+name: sidekixEssentials
+main: de.sidekix.essentials.Main
+version: 0.1
+author: sidekix
+commands: 
+  wuerfel:
+  wp:
+ 
