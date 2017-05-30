@@ -12,7 +12,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/telet/Desktop/dev/mysql-connector-java-5.1.41-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/telet/Desktop/dev/spigot-api-1.11.2-R0.1-SNAPSHOT-shaded.jar"/>
 	<classpathentry kind="lib" path="C:/Users/telet/Desktop/dev/spigot-api-1.12-pre5-SNAPSHOT-shaded.jar"/>
 	<classpathentry kind="lib" path="C:/Users/telet/Desktop/dev/Vault.jar"/>
 	<classpathentry kind="lib" path="C:/Users/telet/Desktop/dev/spigot-api-1.12-pre6-SNAPSHOT-shaded.jar"/>
