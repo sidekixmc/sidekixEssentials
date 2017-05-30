@@ -3,15 +3,6 @@
   <groupId>sidekixEssentials</groupId>
   <artifactId>sidekixEssentials</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <dependencies>
-		<!-- Spigot -->
-		<dependency>
-			<groupId>org.spigotmc</groupId>
-			<artifactId>spigot-api</artifactId>
-			<version>1.12-pre6-SNAPSHOT</version>
-			<scope>provided</scope>
-			</dependency>
-  </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
